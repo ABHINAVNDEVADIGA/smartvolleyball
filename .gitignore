@@ -1,0 +1,7 @@
+*.pt
+*.safetensors
+*.mp4
+*.mov
+*.avi
+weights/
+__pycache__/
