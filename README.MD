@@ -45,20 +45,24 @@ All inside a clean, interactive dashboard.
 
 ---
 
-# 🎬 Demo Output Screenshots
+# 🎬 Demo Output Videos
 
 
-### 🔹 Back View  
-![Back View](media/backview.png)
+### 🔹 Ball Detection  
 
-### 🔹 Detecting Volleyball  
-![Detecting Volleyball](media/detecting_volleyball.png)
+![Ball Detection](media/balldetection.gif)  ![Ball Detection](media/y7Detect_volleyball15.gif)
 
-### 🔹 Display Above  
-![Display Above](media/display_above.png)
+### 🔹 Court Dection
 
-### 🔹 Men Track  
-![Men Track](media/men_track.png)
+![Detecting Court](media/court.gif)
+
+### 🔹 Player Dection
+
+![Player Detection](media/players_men.gif)
+
+### 🔹 Action Dection
+
+![Action Detection](media/sliding_window.gif)
 
 ---
 
