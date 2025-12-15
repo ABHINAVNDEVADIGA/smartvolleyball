@@ -1,5 +1,27 @@
 # 🏐 Smart Volleyball Referee System BY ABHINAV N DEVADIGA 
 ### AI-Powered Volleyball Referee Dashboard (YOLO + Streamlit + GPU)
+---
+
+# 🎬 Demo Output Videos
+
+
+### 🔹 Ball Detection  
+
+![Ball Detection](media/balldetection.gif)  ![Ball Detection](media/y7Detect_volleyball15.gif)
+
+### 🔹 Court Dection
+
+![Detecting Court](media/court.gif)
+
+### 🔹 Player Dection
+
+![Player Detection](media/players_men.gif)
+
+### 🔹 Action Dection
+
+![Action Detection](media/sliding_window.gif)
+
+
 
 This project is a fully functional **AI Referee System for Volleyball**, built using **YOLO (Ultralytics)**, **OpenCV**, and a real-time **Streamlit Dashboard**.
 
@@ -42,27 +64,6 @@ All inside a clean, interactive dashboard.
 - Live preview + detection window  
 - Fixed two-column layout  
 - Clean UI designed for real-time use  
-
----
-
-# 🎬 Demo Output Videos
-
-
-### 🔹 Ball Detection  
-
-![Ball Detection](media/balldetection.gif)  ![Ball Detection](media/y7Detect_volleyball15.gif)
-
-### 🔹 Court Dection
-
-![Detecting Court](media/court.gif)
-
-### 🔹 Player Dection
-
-![Player Detection](media/players_men.gif)
-
-### 🔹 Action Dection
-
-![Action Detection](media/sliding_window.gif)
 
 ---
 
